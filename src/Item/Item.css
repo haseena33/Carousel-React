@@ -1,0 +1,25 @@
+.container {
+    background-color: 	#191919;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.container img {
+    max-width: 10%; 
+    height: auto; 
+    margin: 25px;
+    cursor: pointer;
+}
+.previous ,.Next{
+    background-color: rgb(45, 45, 45);
+    color: white;
+    margin: 40px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+.previous:disabled, .Next:disabled {
+    background-color: black;
+    cursor: not-allowed;
+}

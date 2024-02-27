@@ -1,0 +1,36 @@
+/* .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container img {
+  max-width: 10%;
+  height: auto;
+  margin: 25px;
+  cursor: pointer;
+}
+
+.previous,
+.Next {
+  background-color: rgb(97, 94, 94);
+  margin: 40px;
+  margin-left: 2px;
+  cursor: pointer;
+}
+
+.previous:disabled,
+.Next:disabled {
+  background-color: rgb(56, 55, 55);
+  cursor: not-allowed;
+}
+
+h2 {
+  color:black;
+  margin: auto;
+  padding-left: 50px;
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+
+} */
